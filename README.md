@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pragyan Shaw
+# 👋 Hi, I’m Pragyan Shaw
 - 👀 I’m interested in Web Development and DevOps
 - 🌱 I’m currently learning DSA in Java, basics of HTML and CSS, and Networking fundamentals.
 - 💞️ I’m looking to collaborate on 
